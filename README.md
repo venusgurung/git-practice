@@ -9,3 +9,11 @@ learning and practicing Git and GitHub
 - Using Github Regularly (or at least 5 days a week)
 
   
+## Topics covered so far: 
+- Intializing a git repository
+- git add
+- git commit with meaningfull messages
+- pushing changes to github using SSH authentication from my pc
+
+# Goals: 
+- Building confidence using git via the terminal
